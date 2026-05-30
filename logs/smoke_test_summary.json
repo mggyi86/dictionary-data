@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-05-29T14:33:13.387482Z",
+  "max_words_per_language": 50,
+  "results": [
+    {
+      "slug": "english",
+      "sol_id": "en",
+      "tested": 50,
+      "ok": 26,
+      "notfound": 0,
+      "errors": 24,
+      "hit_rate": 52.0,
+      "sample_hits": [
+        "!",
+        "\"",
+        "-cratic"
+      ]
+    },
+    {
+      "slug": "german",
+      "sol_id": "de",
+      "tested": 8,
+      "ok": 0,
+      "notfound": 8,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "french",
+      "sol_id": "fr",
+      "tested": 7,
+      "ok": 0,
+      "notfound": 7,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "japanese",
+      "sol_id": "ja",
+      "tested": 7,
+      "ok": 0,
+      "notfound": 7,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "spanish",
+      "sol_id": "es",
+      "tested": 7,
+      "ok": 0,
+      "notfound": 7,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "thai",
+      "sol_id": "th",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "hindi",
+      "sol_id": "hi",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "arabic",
+      "sol_id": "ar",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "chinese",
+      "sol_id": "zh",
+      "tested": 6,
+      "ok": 0,
+      "notfound": 2,
+      "errors": 4,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "korean",
+      "sol_id": "ko",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 0,
+      "errors": 5,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "hebrew",
+      "sol_id": "iw",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "greek",
+      "sol_id": "el",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "portuguese",
+      "sol_id": "pt",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "dutch",
+      "sol_id": "nl",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "norwegian",
+      "sol_id": "no",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "finnish",
+      "sol_id": "fi",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "romanian",
+      "sol_id": "ro",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "polish",
+      "sol_id": "pl",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "swedish",
+      "sol_id": "sv",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "danish",
+      "sol_id": "da",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "russian",
+      "sol_id": "ru",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "malay",
+      "sol_id": "ms",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "filipion",
+      "sol_id": "tl",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    },
+    {
+      "slug": "vietnamese",
+      "sol_id": "vi",
+      "tested": 5,
+      "ok": 0,
+      "notfound": 5,
+      "errors": 0,
+      "hit_rate": 0.0,
+      "sample_hits": []
+    }
+  ],
+  "notes": "English uses the official word-list API. Other languages use seed words. Low hit rates on non-English languages may indicate missing server-side definitions or incomplete seed lists."
+}
