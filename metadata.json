@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
   "database": "dictionary.db.gz",
-  "size": 14109931,
-  "sha256": "202ed353d9f4c53e2b0197b5d4ed3ce65e7685a25fdf920637e14e864fb34e1e",
+  "size": 36227394,
+  "sha256": "29ee62eea383d149154cd2b132ce83a0a6b9db02a9644d385137f2db2079710f",
   "languages": [
     "en"
   ],
-  "created_at": "2026-05-30"
+  "created_at": "2026-06-02"
 }
